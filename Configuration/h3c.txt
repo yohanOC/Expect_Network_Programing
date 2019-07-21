@@ -1,0 +1,14 @@
+############LOG INVENTORY##############
+dis cpu
+########### STATUS MEMORY ###############
+dis mem
+########### STATUS POWER SUPLY ###############
+dis power
+########### STATUS INTERFACE ###############
+dis br int
+########### STATUS VLAN ###############
+dis vl
+########### STATUS PACKET DATA ###############
+dis int
+############FINISH#####################
+quit
