@@ -1,0 +1,3 @@
+Notice :
+you can create auto matic folder using cron with create_folder.sh also delete_folder.sh for create and delete usng cron job
+for daily automatic running you can using cron also for running expect script
