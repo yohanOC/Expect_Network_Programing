@@ -1,7 +1,6 @@
 
 Switch>enable
 Password: 
-Switch#################INVENTORY############################
 Switch#terminal length 0
 Switch#sh processes cpu history
                                                                   
@@ -65,4 +64,5 @@ Switch#sh processes cpu history
 
 Switch######################FINISH################################$##########FINISH#################################         #
 Switch#exit
-
+
+
