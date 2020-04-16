@@ -1,13 +1,6 @@
-################LAPORAN LOG############################
 terminal length 0
 sh clock
 sh env all
 sh processes cpu history
-sh process memory
-sh power inline
-sh int status
-sh vlan brief
-sh process cpu
 terminal length 25
-#####################FINISH##################################
 exit
