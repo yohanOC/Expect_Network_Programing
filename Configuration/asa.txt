@@ -1,15 +1,8 @@
-############LOG INVENTORY####################
 terminal pager lines 0
 ########### STATUS CPU ###############
 show process cpu-usage
 ########### STATUS MEMORY ###############
 show process memory
-########### STATUS POWER SUPLY ###############
-show env power
-########### STATUS INTERFACE ###############
-how int ip br
-########### STATUS VLAN ###############
-show vlan
 terminal pager lines 24
 ##############FINISH#########################
 exit
