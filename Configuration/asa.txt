@@ -1,8 +1,0 @@
-terminal pager lines 0
-########### STATUS CPU ###############
-show process cpu-usage
-########### STATUS MEMORY ###############
-show process memory
-terminal pager lines 24
-##############FINISH#########################
-exit
